@@ -1,5 +1,7 @@
 package main
 
+// https://leetcode.cn/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/?envType=study-plan&id=lcof&plan=lcof&plan_progress=j7ivt3c
+
 import "fmt"
 
 func translateNum(num int) int {
